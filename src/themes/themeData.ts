@@ -396,7 +396,7 @@ export default {
         scope:
           'variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node',
         settings: {
-          foreground: 'coral',
+          foreground: 'lightWhite',
         },
       },
       {
@@ -822,7 +822,7 @@ export default {
         name: 'Constants',
         scope: 'constant',
         settings: {
-          foreground: 'whiskey',
+          foreground: 'chalky',
         },
       },
       {
